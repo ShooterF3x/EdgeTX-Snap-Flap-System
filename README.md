@@ -19,10 +19,10 @@ Ce système remplace les mixages standards par une solution dynamique offrant un
 3. Déclarez le script `snflp.lua` dans la page **Mixages** de votre modèle.
 4. Lancez le script `SnapFlap Config.lua` depuis le menu **Outils** (Système) pour initialiser la configuration.
 
-📖 **Pour un guide détaillé pas-à-pas avec images, consultez le [Manuel d'Installation PDF](MANUEL_INSTALLATION.pdf).**
+
 
 ## 🛠️ Compatibilité
-Testé et validé sur les radios sous **EdgeTX** disposant d'un écran couleur (Radiomaster TX16S, Boxer avec écran couleur externe, etc.).
+Testé et validé sur TX16S sous **EdgeTX** disposant d'un écran couleur.
 
 ## 📝 Licence
 Ce projet est open-source sous licence **MIT**. Sentez-vous libre de le modifier pour vos propres planeurs.
