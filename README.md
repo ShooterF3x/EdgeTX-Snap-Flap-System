@@ -16,8 +16,8 @@ Ce système remplace les mixages standards par une solution dynamique offrant un
 
 1. Téléchargez la dernière version dans la section **Releases**.
 2. Copiez les dossiers `SCRIPTS` et `WIDGETS` à la racine de la carte SD de votre radio EdgeTX.
-3. Déclarez le script `snap_mix.lua` dans la page **Mixages** de votre modèle.
-4. Lancez le script `snap.lua` depuis le menu **Outils** (Système) pour initialiser la configuration.
+3. Déclarez le script `snflp.lua` dans la page **Mixages** de votre modèle.
+4. Lancez le script `SnapFlap Config.lua` depuis le menu **Outils** (Système) pour initialiser la configuration.
 
 📖 **Pour un guide détaillé pas-à-pas avec images, consultez le [Manuel d'Installation PDF](MANUEL_INSTALLATION.pdf).**
 
