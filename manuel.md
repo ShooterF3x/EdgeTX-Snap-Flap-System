@@ -32,9 +32,8 @@ Le script de mixage se charge des mathématiques et de l'envoi de la commande au
 1. Allumez votre radio et sélectionnez votre modèle 
 2. Allez dans le menu **Mixages** (Mixes).
 3. Sur la voie correspondant à vos volets (ou sur une voie virtuelle intermédiaire), ajoutez un nouveau mixage.
-4. Dans le champ **Source**, sélectionnez la profondeur (`Ele`).
-5. Dans le champ **Type de Mixage**, choisissez **Script LUA**.
-6. Sélectionnez le script `snap_mix`.
+4. Dans le champ **Source**, choisissez **Script LUA**..
+6. Sélectionnez le script `snflp`.
 
 <img width="748" height="315" alt="image" src="https://github.com/user-attachments/assets/e10982b9-0521-44c9-b531-bcc2485a0412" />
 <img width="732" height="302" alt="image" src="https://github.com/user-attachments/assets/ab0b7007-24be-4654-bdd3-92e56d330a1f" />
