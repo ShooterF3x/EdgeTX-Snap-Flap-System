@@ -29,7 +29,7 @@ Ce document vous guide pas à pas dans l'installation et la configuration du sys
 
 Le script de mixage se charge des mathématiques et de l'envoi de la commande aux gouvernes.
 
-1. Allumez votre radio et sélectionnez votre modèle (ex: Freestyler ou Split).
+1. Allumez votre radio et sélectionnez votre modèle 
 2. Allez dans le menu **Mixages** (Mixes).
 3. Sur la voie correspondant à vos volets (ou sur une voie virtuelle intermédiaire), ajoutez un nouveau mixage.
 4. Dans le champ **Source**, sélectionnez la profondeur (`Ele`).
