@@ -20,10 +20,8 @@ Ce document vous guide pas à pas dans l'installation et la configuration du sys
 
    - `SDCARD/SCRIPTS/MIXES/snap_mix.lua`
    - `SDCARD/SCRIPTS/TOOLS/snap.lua`
+   - `SDCARD/SCRIPTS/CONFIG/snap_cfg.lua`
    - `SDCARD/WIDGETS/SnapInfo/main.lua`
-   - `SDCARD/WIDGETS/SnapInfo/meta.json`
-
-*(Note : Le fichier `snap_cfg.lua` sera créé automatiquement par le système lors de la première utilisation).*
 
 ---
 
