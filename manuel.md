@@ -51,7 +51,8 @@ C'est ici que vous définissez le comportement de votre planeur.
 2. Allez dans l'onglet **Outils** (Tools).
 3. Faites défiler vers le bas et sélectionnez **snap** (ou Snap-Flap Config).
 
-> 📷 *[Insérez ici une capture d'écran du menu Outils avec "snap" en surbrillance]*
+<img width="706" height="291" alt="image" src="https://github.com/user-attachments/assets/1ec525de-9515-40e9-a88b-7eb365b0ce74" />
+
 
 L'interface s'ouvre. Vous y trouverez 4 paramètres et le graphique de réponse à droite :
 - **Zone Morte** : Ignorer les petits mouvements autour du neutre (ex: 5%).
@@ -68,7 +69,8 @@ L'interface s'ouvre. Vous y trouverez 4 paramètres et le graphique de réponse 
   - **Variable Globale** (ex: `[GV1]`) : La valeur lira le contenu de la GV1, idéal pour changer l'agressivité entre la phase "Gratte" et la phase "Vitesse/F3F".
 - Appuyez sur **ENTRÉE** pour valider, ou **RETOUR/EXIT** pour sauvegarder et quitter.
 
-> 📷 *[Insérez ici une capture d'écran de l'outil `snap.lua` ouvert sur la radio, montrant la courbe bleue à droite]*
+<img width="662" height="290" alt="image" src="https://github.com/user-attachments/assets/001f9210-88d5-419e-a6ca-b92e55b91c65" />
+
 
 ---
 
@@ -83,7 +85,8 @@ Pour garder un œil sur vos réglages en vol :
    - **Petite zone** : Affichage compact des 4 valeurs.
    - **Grande zone / Plein écran** : Affichage des valeurs + tracé en direct de la courbe de réponse.
 
-> 📷 *[Insérez ici une capture d'écran de votre écran d'accueil EdgeTX affichant le widget SnapInfo en mode plein écran]*
+<img width="685" height="286" alt="image" src="https://github.com/user-attachments/assets/340ecaf2-3bb2-41e7-9788-5aab6ac4d385" />
+
 
 ---
 
