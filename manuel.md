@@ -18,8 +18,8 @@ Ce document vous guide pas à pas dans l'installation et la configuration du sys
 2. Décompressez l'archive du projet.
 3. Copiez l'architecture à la racine de votre carte SD. Vous devez obtenir ceci :
 
-   - `SDCARD/SCRIPTS/MIXES/snap_mix.lua`
-   - `SDCARD/SCRIPTS/TOOLS/snap.lua`
+   - `SDCARD/SCRIPTS/MIXES/snflp.lua`
+   - `SDCARD/SCRIPTS/TOOLS/SnapFlap Config.lua`
    - `SDCARD/SCRIPTS/CONFIG/snap_cfg.lua`
    - `SDCARD/WIDGETS/SnapInfo/main.lua`
 
